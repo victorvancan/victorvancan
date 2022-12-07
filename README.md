@@ -1,4 +1,4 @@
-<H3>👋🏻👋🏻 Hey! i am Victor Vançan <H3/>
+<H3>👋🏻👋🏻 Hello!!! It's nice you're here, i am Victor Vançan !! <H3/>
 
 # 💫 About Me:
 - 🔭 I’m currently working on Data Analyst intern at amazon <br>- 🌱 I’m currently learning Flutter/Dart<br>- 📫 How to reach me: victorvancan1@gmail.com<br>- 😄 Pronouns: he/him
